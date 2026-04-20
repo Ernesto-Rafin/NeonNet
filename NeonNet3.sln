@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36401.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeonNet3 updated", "NeonNet3\NeonNet3 updated.csproj", "{F69A7335-0628-4E7D-B363-5C3E92771F9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F69A7335-0628-4E7D-B363-5C3E92771F9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F69A7335-0628-4E7D-B363-5C3E92771F9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F69A7335-0628-4E7D-B363-5C3E92771F9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F69A7335-0628-4E7D-B363-5C3E92771F9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FF51627-0F5E-48E8-A57C-C949BC0F8C4E}
+	EndGlobalSection
+EndGlobal
